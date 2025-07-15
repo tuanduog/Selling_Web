@@ -1,4 +1,3 @@
-[![ktltweb](https://github.com/npv2k1/ktltweb/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/npv2k1/ktltweb/actions/workflows/main.yml)
 # Food Selling Website
 
 Trang web bán hàng thực phẩm
